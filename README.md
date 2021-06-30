@@ -1,3 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![Proje Resmi] (https://deyimler.org/wp-content/uploads/2020/05/babamin-adi-hidir-elimden-gelen-budur-deyimi.jpg)
+*******
+
+![Proje Resmi](https://fotolifeakademi.com/uploads/2020/04/manzara-fotografi-cekmek-724x394.webp)
+***
+
